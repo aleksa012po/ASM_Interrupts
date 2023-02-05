@@ -2,7 +2,7 @@
 ; InterruptTwoLEDs.asm
 ;
 ; Created: 23/06/2022 22:26:21
-; Author : Alex
+; Author : Aleksandar Bogdanovic
 ;
 
 
